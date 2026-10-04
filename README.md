@@ -2,113 +2,126 @@
 
 # Hi, I'm Anushka Singh 👋
 
-### Software Developer | C++ | Web Development | AI/ML
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&height=50&lines=Software+Developer;Exploring+Web+Development;Building+and+Learning;Exploring+AI%2FML" alt="Typing animation cycling through: Software Developer, Exploring Web Development, Building and Learning, Exploring AI/ML" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+with+curiosity.;Learning+by+building+and+contributing.;Exploring+software+development+and+AI%2FML." alt="Typing headline" />
+**Software Developer | C++ | Web Development | AI/ML**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anushkasingh-commits)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-singh-761a7933a/)
-[![Email](https://img.shields.io/badge/Email-Contact-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushkageetasingh@gmail.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=anushkasingh-commits&style=flat&color=8B5CF6&label=PROFILE+VIEWS)
+*“Building with curiosity. Growing with every commit.”*
 
 </div>
 
----
+## 💻 About Me
 
-## About Me
+I build practical software and enjoy solving problems and turning ideas into working projects. I explore the intersection of web technologies and AI/ML, and I keep learning through hands-on development.
 
-I'm a software developer interested in building practical applications, solving problems, and exploring the intersection of web technologies and AI/ML. I enjoy turning ideas into working projects and learning through hands-on development.
+**Interests:** Software Development · Web Development · Backend Development · Frontend Development · AI/ML · Competitive Programming · Open Source
 
-- 💻 Interested in **software development, web development, AI/ML, and problem solving**
-- 🌱 Continuously learning, building projects, and exploring open source
-- 🤝 Open to connecting with developers and exploring opportunities to collaborate
+I'm open to connecting with developers, collaborating on projects, and exploring professional opportunities.
 
-> **Building with curiosity. Growing with every commit.**
+## 🛠️ Tech Stack
 
-## Tech Stack
+<div align="center">
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C%2B%2B-8B5CF6?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7C3AED?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-A78BFA?style=flat&logo=javascript&logoColor=222222)
-![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-7C3AED?style=flat&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-8B5CF6?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-8B5CF6?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-8B5CF6?style=for-the-badge&logo=css&logoColor=white)
 
-**Web Development and Database**
+**Frameworks, Technologies & Databases**
 
-![React](https://img.shields.io/badge/React-8B5CF6?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-A78BFA?style=flat&logo=express&logoColor=222222)
-![EJS](https://img.shields.io/badge/EJS-8B5CF6?style=flat&logo=ejs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-7C3AED?style=flat&logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-A78BFA?style=flat&logo=fastapi&logoColor=222222)
+![React](https://img.shields.io/badge/React-8B5CF6?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-8B5CF6?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-8B5CF6?style=for-the-badge&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-8B5CF6?style=for-the-badge&logo=ejs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-8B5CF6?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-8B5CF6?style=for-the-badge)
 
-**Tools**
+**Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-8B5CF6?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-A78BFA?style=flat&logo=visualstudiocode&logoColor=222222)
-![Vercel](https://img.shields.io/badge/Vercel-8B5CF6?style=flat&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-8B5CF6?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)
 
-## Featured Projects
+</div>
 
-### 🎟️ Evently — Event Venue Booking
+## 🚀 Featured Projects
 
-An event venue booking application built with EJS, Express.js, and MongoDB.
+### 🎟️ Evently — Event Venue Booking Application
 
-- **Tech:** EJS · Express.js · MongoDB
+An event venue booking application.
+
+- **Tech:** `EJS` · `Express.js` · `MongoDB`
+- **Status:** Deployed
 - **Live demo:** [evently-bice.vercel.app](https://evently-bice.vercel.app/)
-- **Repository:** [Evently on GitHub](https://github.com/anushkasingh-commits/Evently)
+- **Repository:** [anushkasingh-commits/Evently](https://github.com/anushkasingh-commits/Evently)
 
 ### 🧠 Brain Rush — Quiz Game
 
 A browser-based quiz game powered by the Open Trivia DB API.
 
-- 10-question quizzes with a timer
-- Category and difficulty selection
-- Dark mode and Local Storage support
-- **Tech:** HTML · CSS · JavaScript · Open Trivia DB API
-- **Repository:** [Quiz-Game on GitHub](https://github.com/anushkasingh-commits/Quiz-Game)
+- **Tech:** `HTML` · `CSS` · `JavaScript` · `Open Trivia DB API`
+- **Status:** Completed
+- **Features:**
+  - Ten-question quizzes
+  - Timer
+  - Difficulty selection
+  - Category selection
+  - Dark mode
+  - Local Storage support
+- **Repository:** [anushkasingh-commits/Quiz-Game](https://github.com/anushkasingh-commits/Quiz-Game)
 
 ### 🎬 Movie CRUD Application
 
-A movie-focused CRUD project demonstrating create, read, update, and delete functionality.
+A CRUD application for movies.
 
-- **Repository:** [Movie CRUD Application on GitHub](https://github.com/anushkasingh-commits/Movie-CRUD-Application)
+- **Repository:** [anushkasingh-commits/Movie-CRUD-Application](https://github.com/anushkasingh-commits/Movie-CRUD-Application)
 
-## Open Source
+## 📈 GitHub Activity
 
-I’m interested in contributing to open-source projects, learning from other developers, and collaborating on useful software. I’m continuing to build my contribution history and look forward to taking on more community-driven work.
+<div align="center">
+  <a href="https://github.com/anushkasingh-commits">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkasingh-commits&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&hide_title=true&radius=10" alt="Contribution activity graph for GitHub user anushkasingh-commits" width="100%" />
+  </a>
+  <br />
+  <sub><a href="https://github.com/anushkasingh-commits">View full contribution history on GitHub →</a></sub>
+</div>
 
-## Coding Profiles
+## 🧩 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/leetcode_anu2025/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/anushkageetasingh)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-A78BFA?style=for-the-badge&logo=codechef&logoColor=222222)](https://www.codechef.com/users/zany_otters_87)
+<div align="center">
 
-## GitHub Activity
+[![GitHub profile](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anushkasingh-commits)
+[![LeetCode profile](https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/leetcode_anu2025/)
+[![Codeforces profile](https://img.shields.io/badge/Codeforces-8B5CF6?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/anushkageetasingh)
+[![CodeChef profile](https://img.shields.io/badge/CodeChef-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/zany_otters_87)
 
-[![Anushka's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anushkasingh-commits&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=a78bfa&area=true&hide_border=true)](https://github.com/anushkasingh-commits)
+</div>
 
-## Leadership
+## 🌱 Open Source
+
+I'm interested in contributing to open source: collaborating with other developers, learning from real-world codebases, and helping build community-driven software. I've had pull requests merged and I'm looking to keep contributing.
+
+## 🤝 Leadership & Community
 
 **NexCell — Entrepreneurship Club, Mirai School of Technology**
 
 - Domain Head — Design
 - Creative and Events Head
 
-## Connect With Me
+## 📬 Let's Connect
 
 - **LinkedIn:** [Anushka Singh](https://www.linkedin.com/in/anushka-singh-761a7933a/)
 - **Email:** [anushkageetasingh@gmail.com](mailto:anushkageetasingh@gmail.com)
-- **GitHub:** [anushkasingh-commits](https://github.com/anushkasingh-commits)
+- **GitHub:** [@anushkasingh-commits](https://github.com/anushkasingh-commits)
 
 ---
 
 <div align="center">
 
-*Building with curiosity. Growing with every commit.*
+![Profile views counter](https://komarev.com/ghpvc/?username=anushkasingh-commits&label=Profile+views&color=8B5CF6&style=flat-square)
 
 </div>
