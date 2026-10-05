@@ -80,16 +80,6 @@ A CRUD application for movies.
 
 - **Repository:** [anushkasingh-commits/Movie-CRUD-Application](https://github.com/anushkasingh-commits/Movie-CRUD-Application)
 
-## 📈 GitHub Activity
-
-<div align="center">
-  <a href="https://github.com/anushkasingh-commits">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkasingh-commits&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&hide_title=true&radius=10" alt="Contribution activity graph for GitHub user anushkasingh-commits" width="100%" />
-  </a>
-  <br />
-  <sub><a href="https://github.com/anushkasingh-commits">View full contribution history on GitHub →</a></sub>
-</div>
-
 ## 🧩 Coding Profiles
 
 <div align="center">
@@ -117,11 +107,3 @@ I'm interested in contributing to open source: collaborating with other develope
 - **LinkedIn:** [Anushka Singh](https://www.linkedin.com/in/anushka-singh-761a7933a/)
 - **Email:** [anushkageetasingh@gmail.com](mailto:anushkageetasingh@gmail.com)
 - **GitHub:** [@anushkasingh-commits](https://github.com/anushkasingh-commits)
-
----
-
-<div align="center">
-
-![Profile views counter](https://hits.sh/github.com/anushkasingh-commits.svg?style=flat-square&label=Profile%20views&color=8B5CF6)
-
-</div>
