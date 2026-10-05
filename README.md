@@ -122,6 +122,6 @@ I'm interested in contributing to open source: collaborating with other develope
 
 <div align="center">
 
-![Profile views counter](https://komarev.com/ghpvc/?username=anushkasingh-commits&label=Profile+views&color=8B5CF6&style=flat-square)
+![Profile views counter](https://hits.sh/github.com/anushkasingh-commits.svg?style=flat-square&label=Profile%20views&color=8B5CF6)
 
 </div>
